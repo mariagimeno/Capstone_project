@@ -63,7 +63,7 @@ For this part of the project, I created 4 jupyter notebooks:
 
 - ["Wine_Findings_and_Technical_Report_Part_4_Province"](Wine_Findings_and_Technical_Report_Part_4-Province.ipynb): Contains the models that I build it where the target is the province. For Small and Big datasets
 
-- ["Wine_Findings_and_Technical_Report_Part_4_Variety"](): Contains the models that I build it where the target is the variety. For Small and Big datasets
+- ["Wine_Findings_and_Technical_Report_Part_4_Variety"](Wine_Findings_and_Technical_Report_Part_4-Variety.ipynb): Contains the models that I build it where the target is the variety. For Small and Big datasets
 
 - ["Wine_Findings_and_Technical_Report_Part_4_concat"](): Contains the models that I build with the Concat data set where the target are the country, province and variety.
 
