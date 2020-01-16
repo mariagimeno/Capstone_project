@@ -41,7 +41,7 @@ These are the descripitons of the columns.
 
 ### CLEAN DATA
 
-This part of the project is formed for 1 juypter notebook “vino_clean_data_V1”
+This part of the project is formed for 1 juypter notebook [“vino_clean_data_V1”](https://github.com/mariagimeno/ga_capstone_project/blob/master/vino_clean_data_V1.ipynb)
 
 
 
@@ -49,7 +49,7 @@ This part of the project is formed for 1 juypter notebook “vino_clean_data_V1�
 
 This part of the project is formed for 2 juyper notebooks:
 
-- "vino_EDA_V1": Contains the exploration data analysis of the small and big datasets.
+- ["vino_EDA_V1"](): Contains the exploration data analysis of the small and big datasets.
 
 - "vino_EDA_V1-Conca": Contains the exploration data analysis of the dataset that merges from the two datasets (small and big).
 
