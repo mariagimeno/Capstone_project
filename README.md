@@ -17,7 +17,6 @@ There are three datasets, that I am going to use to analyze:
 - "Concat Dataset": This dataset is a result of the small and big datasets union and contains 166715 rows and 12 columns.
 
 
-
 ## COLUMNS DESCRIPTIONS
 
 These are the descripitons of the columns.
@@ -39,10 +38,13 @@ These are the descripitons of the columns.
 
 ## PARTS OF THE PROJECT
 
+### SCRAPING DATA
+
+This part of the project is formed for ['SCRAPING DATA']() file.
+
 ### CLEAN DATA
 
 This part of the project is formed for 1 juypter notebook [“vino_clean_data_V1”](https://github.com/mariagimeno/ga_capstone_project/blob/master/vino_clean_data_V1.ipynb)
-
 
 
 ### EDA
@@ -69,7 +71,8 @@ For this part of the project, I created 4 jupyter notebooks:
 
 ### PRESENTATION
 
-The file [“Presentation_capstoneproject"]() is a short presentation with my findings and the most important insights of the project. 
+The file [“Presentation_capstoneproject"](Capstone_presentation.pdf) is a short presentation with my findings and the most important insights of the project. 
 
+### CONCLUSION
 
-
+The conlusions, the improvements and learning from the project are in the ['CONCLUSIONS'] folder. 
