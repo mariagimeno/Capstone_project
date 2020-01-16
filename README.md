@@ -51,7 +51,7 @@ This part of the project is formed for 2 juyper notebooks:
 
 - ["vino_EDA_V1"](https://github.com/mariagimeno/ga_capstone_project/blob/master/vino_EDA_V1.ipynb): Contains the exploration data analysis of the small and big datasets.
 
-- ["vino_EDA_V1-Conca"](): Contains the exploration data analysis of the dataset that merges from the two datasets (small and big).
+- ["vino_EDA_V1-Conca"](https://github.com/mariagimeno/ga_capstone_project/blob/master/vino_EDA_V1-Conca.ipynb): Contains the exploration data analysis of the dataset that merges from the two datasets (small and big).
 
 
 
@@ -59,17 +59,17 @@ This part of the project is formed for 2 juyper notebooks:
 
 For this part of the project, I created 4 jupyter notebooks:
 
-- "Wine_Findings_and_Technical_Report_Part_4_Country_V1": Contains the models that I build it where the target is the country. For Small and Big datasets
+- ["Wine_Findings_and_Technical_Report_Part_4_Country_V1"](): Contains the models that I build it where the target is the country. For Small and Big datasets
 
-- "Wine_Findings_and_Technical_Report_Part_4_Province": Contains the models that I build it where the target is the province. For Small and Big datasets
+- ["Wine_Findings_and_Technical_Report_Part_4_Province"](): Contains the models that I build it where the target is the province. For Small and Big datasets
 
-- "Wine_Findings_and_Technical_Report_Part_4_Variety": Contains the models that I build it where the target is the variety. For Small and Big datasets
+- ["Wine_Findings_and_Technical_Report_Part_4_Variety"](): Contains the models that I build it where the target is the variety. For Small and Big datasets
 
-- "Wine_Findings_and_Technical_Report_Part_4_concat": Contains the models that I build with the Concat data set where the target are the country, province and variety.
+- ["Wine_Findings_and_Technical_Report_Part_4_concat"](): Contains the models that I build with the Concat data set where the target are the country, province and variety.
 
 ### PRESENTATION
 
-The file “Presentation_capstoneproject" is a short presentation with my findings and the most important insights of the project. 
+The file [“Presentation_capstoneproject"]() is a short presentation with my findings and the most important insights of the project. 
 
 
 
