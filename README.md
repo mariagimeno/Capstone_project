@@ -75,4 +75,4 @@ The file [“Presentation_capstoneproject"](Capstone_presentation.pdf) is a shor
 
 ### CONCLUSION
 
-The conlusions, the improvements and learning from the project are in the ['CONCLUSIONS'] folder. 
+The conclusions, the improvements and learning from the project are in the ['CONCLUSIONS'](https://github.com/mariagimeno/ga_capstone_project/blob/master/CONCLUSION.md) folder. 
