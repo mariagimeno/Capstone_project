@@ -59,7 +59,7 @@ This part of the project is formed for 2 juyper notebooks:
 
 For this part of the project, I created 4 jupyter notebooks:
 
-- ["Wine_Findings_and_Technical_Report_Part_4_Country_V1"](): Contains the models that I build it where the target is the country. For Small and Big datasets
+- ["Wine_Findings_and_Technical_Report_Part_4_Country_V1"](Wine_Findings_and_Technical_Report_Part_4_country_V1.ipynb): Contains the models that I build it where the target is the country. For Small and Big datasets
 
 - ["Wine_Findings_and_Technical_Report_Part_4_Province"](): Contains the models that I build it where the target is the province. For Small and Big datasets
 
