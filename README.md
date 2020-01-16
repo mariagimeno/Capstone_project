@@ -40,7 +40,7 @@ These are the descripitons of the columns.
 
 ### SCRAPING DATA
 
-This part of the project is formed for ['SCRAPING DATA']() file.
+This part of the project is formed for ['SCRAPING DATA'](SCRAPING DATA.md) file.
 
 ### CLEAN DATA
 
