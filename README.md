@@ -40,7 +40,7 @@ These are the descripitons of the columns.
 
 ### SCRAPING DATA
 
-This part of the project is formed for ['SCRAPING DATA'](SCRAPING DATA.md) file.
+This part of the project is formed for ['SCRAPING DATA'](https://github.com/mariagimeno/ga_capstone_project/blob/master/SCRAPING%20DATA.md) file.
 
 ### CLEAN DATA
 
